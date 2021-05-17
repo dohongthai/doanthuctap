@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phramacy.Common", "Phramacy.Common\Phramacy.Common.csproj", "{D954149E-0A36-4855-9B61-55351957CD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phramacy.Model", "Phramacy.Model\Phramacy.Model.csproj", "{049B45FB-2418-4955-BC27-D411C19DF575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phramacy.Data", "Phramacy.Data\Phramacy.Data.csproj", "{2F996958-C39F-499B-B3BD-00E025590E64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phramacy.Service", "Phramacy.Service\Phramacy.Service.csproj", "{4A743282-0B22-4112-B981-CF2F663B3E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phramacy.UnitTest", "Phramacy.UnitTest\Phramacy.UnitTest.csproj", "{C766ED82-32F7-46DC-9E32-A7C29AD965AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phramacy.Web", "Phramacy\Phramacy.Web.csproj", "{ECEADB33-6FA4-4CD8-A142-B8659FFA563F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phramacy.Tests", "Phramacy.Tests\Phramacy.Tests.csproj", "{F5102983-5556-4C40-895A-2EE6B4407968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D954149E-0A36-4855-9B61-55351957CD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D954149E-0A36-4855-9B61-55351957CD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D954149E-0A36-4855-9B61-55351957CD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D954149E-0A36-4855-9B61-55351957CD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049B45FB-2418-4955-BC27-D411C19DF575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049B45FB-2418-4955-BC27-D411C19DF575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049B45FB-2418-4955-BC27-D411C19DF575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049B45FB-2418-4955-BC27-D411C19DF575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F996958-C39F-499B-B3BD-00E025590E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F996958-C39F-499B-B3BD-00E025590E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F996958-C39F-499B-B3BD-00E025590E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F996958-C39F-499B-B3BD-00E025590E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A743282-0B22-4112-B981-CF2F663B3E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A743282-0B22-4112-B981-CF2F663B3E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A743282-0B22-4112-B981-CF2F663B3E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A743282-0B22-4112-B981-CF2F663B3E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C766ED82-32F7-46DC-9E32-A7C29AD965AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C766ED82-32F7-46DC-9E32-A7C29AD965AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C766ED82-32F7-46DC-9E32-A7C29AD965AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C766ED82-32F7-46DC-9E32-A7C29AD965AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECEADB33-6FA4-4CD8-A142-B8659FFA563F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEADB33-6FA4-4CD8-A142-B8659FFA563F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEADB33-6FA4-4CD8-A142-B8659FFA563F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEADB33-6FA4-4CD8-A142-B8659FFA563F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5102983-5556-4C40-895A-2EE6B4407968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5102983-5556-4C40-895A-2EE6B4407968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5102983-5556-4C40-895A-2EE6B4407968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5102983-5556-4C40-895A-2EE6B4407968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {402A4251-FC74-4EBF-89DA-53E98F3A2A1E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\PhramacyShop\Phramacy.Data\bin\Debug\Phramacy.Data.dll.config
+D:\PhramacyShop\Phramacy.Data\bin\Debug\Phramacy.Data.dll
+D:\PhramacyShop\Phramacy.Data\bin\Debug\Phramacy.Data.pdb
+D:\PhramacyShop\Phramacy.Data\bin\Debug\EntityFramework.dll
+D:\PhramacyShop\Phramacy.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\PhramacyShop\Phramacy.Data\bin\Debug\Phramacy.Common.dll
+D:\PhramacyShop\Phramacy.Data\bin\Debug\Phramacy.Common.pdb
+D:\PhramacyShop\Phramacy.Data\bin\Debug\EntityFramework.xml
+D:\PhramacyShop\Phramacy.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\PhramacyShop\Phramacy.Data\obj\Debug\Phramacy.Data.csprojAssemblyReference.cache
+D:\PhramacyShop\Phramacy.Data\obj\Debug\Phramacy.Data.csproj.CoreCompileInputs.cache
+D:\PhramacyShop\Phramacy.Data\obj\Debug\Phramacy.Data.csproj.CopyComplete
+D:\PhramacyShop\Phramacy.Data\obj\Debug\Phramacy.Data.dll
+D:\PhramacyShop\Phramacy.Data\obj\Debug\Phramacy.Data.pdb

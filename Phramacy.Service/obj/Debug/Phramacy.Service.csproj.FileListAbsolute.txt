@@ -1,0 +1,15 @@
+D:\PhramacyShop\Phramacy.Service\bin\Debug\Phramacy.Service.dll
+D:\PhramacyShop\Phramacy.Service\bin\Debug\Phramacy.Service.pdb
+D:\PhramacyShop\Phramacy.Service\bin\Debug\Phramacy.Common.dll
+D:\PhramacyShop\Phramacy.Service\bin\Debug\Phramacy.Data.dll
+D:\PhramacyShop\Phramacy.Service\bin\Debug\Phramacy.Model.dll
+D:\PhramacyShop\Phramacy.Service\bin\Debug\Phramacy.Common.pdb
+D:\PhramacyShop\Phramacy.Service\bin\Debug\Phramacy.Data.pdb
+D:\PhramacyShop\Phramacy.Service\bin\Debug\Phramacy.Data.dll.config
+D:\PhramacyShop\Phramacy.Service\bin\Debug\Phramacy.Model.pdb
+D:\PhramacyShop\Phramacy.Service\bin\Debug\Phramacy.Model.dll.config
+D:\PhramacyShop\Phramacy.Service\obj\Debug\Phramacy.Service.csprojAssemblyReference.cache
+D:\PhramacyShop\Phramacy.Service\obj\Debug\Phramacy.Service.csproj.CoreCompileInputs.cache
+D:\PhramacyShop\Phramacy.Service\obj\Debug\Phramacy.Service.csproj.CopyComplete
+D:\PhramacyShop\Phramacy.Service\obj\Debug\Phramacy.Service.dll
+D:\PhramacyShop\Phramacy.Service\obj\Debug\Phramacy.Service.pdb

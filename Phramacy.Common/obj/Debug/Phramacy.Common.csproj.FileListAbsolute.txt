@@ -1,0 +1,6 @@
+D:\PhramacyShop\Phramacy.Common\bin\Debug\Phramacy.Common.dll
+D:\PhramacyShop\Phramacy.Common\bin\Debug\Phramacy.Common.pdb
+D:\PhramacyShop\Phramacy.Common\obj\Debug\Phramacy.Common.csprojAssemblyReference.cache
+D:\PhramacyShop\Phramacy.Common\obj\Debug\Phramacy.Common.csproj.CoreCompileInputs.cache
+D:\PhramacyShop\Phramacy.Common\obj\Debug\Phramacy.Common.dll
+D:\PhramacyShop\Phramacy.Common\obj\Debug\Phramacy.Common.pdb
